@@ -65,7 +65,7 @@ All tool output screenshots are stored in the `/screenshots/` folder, categorize
 
 ## 📋 Project Question
 
-The original project brief for this penetration testing assignment is available [here](./project_info/project_question.pdf).
+The original project brief for this penetration testing assignment is available [here](.project_info).
 
 <h2>📄 Full Report</h2>
 <p>You can find the full PDF version of the technical report <a href="./report/Ethical_Hacking_Recon.pdf">here</a>.</p>
