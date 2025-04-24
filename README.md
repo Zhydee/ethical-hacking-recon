@@ -56,6 +56,11 @@ All tool output screenshots are stored in the `/screenshots/` folder, categorize
 - `nmap/` – Port scanning
 
 ---
+## 🧰 Tools Used
+
+A detailed breakdown of the tools used in this reconnaissance phase is available here:  
+👉 [tools_used.md](https://github.com/Zhydee/ethical-hacking-recon/blob/main/tools_used.md)
+
 <h2>🛡️ Suggested Countermeasures</h2>
 <ul>
   <li>Restrict DNS Zone Transfers</li>
