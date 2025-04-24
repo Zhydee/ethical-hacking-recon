@@ -1,6 +1,6 @@
 ## 🛡️ Ethical Hacking – Reconnaissance Phase</h2>
 
-<p>This repository documents the reconnaissance phase of a penetration test conducted on a demo web application: <a href="http://megamegapom.free.nf/" target="_blank">megamegapom.free.nf</a>, as part of an Ethical Hacking coursework assignment (NWC4233).</p>
+<p>This repository documents the reconnaissance phase of a penetration test conducted on a demo web application: <a href="http://megamegapom.free.nf/" target="_blank">megamegapom.free.nf</a>, as part of an Ethical Hacking coursework group project (NWC4233).</p>
 
 <h3>👨‍💻 Project Author:</h3>
 <ul>
@@ -53,7 +53,6 @@ All tool output screenshots are stored in the `/screenshots/` folder, categorize
 - `nslookup/` – DNS resolution, SOA queries
 - `whatweb/` – Technology fingerprinting
 - `nmap/` – Port scanning
-- `openssl/` – TLS handshake failure
 
 ---
 <h2>🛡️ Suggested Countermeasures</h2>
