@@ -41,12 +41,13 @@
 - Likely misconfigured or restrictive SSL stack
 
 ## 📁 Repository Structure
-/report/ → Full technical report (PDF)
-/screenshots/ → Output screenshots by tool
-/project_info/ → Original project brief (question)
-/tools_used.md → Summary of tools used
-README.md → This file
----
+```
+/report/         → Full technical report (PDF)
+/screenshots/    → Output screenshots by tool (grouped by tool)
+/project_info/   → Original project brief (assignment question)
+/tools_used.md   → Summary of tools used
+README.md        → This file
+```
 ## 📸 Screenshots Preview
 
 All tool output screenshots are stored in the `/screenshots/` folder, categorized by tool:
@@ -65,10 +66,10 @@ All tool output screenshots are stored in the `/screenshots/` folder, categorize
 
 ## 📋 Project Question
 
-The original project brief for this penetration testing assignment is available [here](.project_info).
+The original project brief for this penetration testing assignment is available [here](https://github.com/Zhydee/ethical-hacking-recon/tree/main/project_info).
 
 <h2>📄 Full Report</h2>
-<p>You can find the full PDF version of the technical report <a href="./report/Ethical_Hacking_Recon.pdf">here</a>.</p>
+<p>You can find the full PDF version of the technical report <a href="https://github.com/Zhydee/ethical-hacking-recon/tree/main/report">here</a>.</p>
 
 <h2>📌 Notes</h2>
 <p>This project was conducted under ethical hacking guidelines and for educational purposes only. No actual intrusion or alteration was performed on the live system.</p>
